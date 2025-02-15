@@ -1,0 +1,7 @@
+.top-bar .p-menubar {
+    border: none;
+}
+
+.top-bar .p-menubar-root-list {
+    min-width: 25rem;
+}
